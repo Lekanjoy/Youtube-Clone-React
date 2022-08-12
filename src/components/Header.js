@@ -1,15 +1,9 @@
-// body #212223
-// header #202020
-// sidebar #212121
-// links color #aaa
-// searchbox #121212
-// sidebar hover & bg-search #383838
 import Menu from "../assets/menu.svg";
 import Youtube from "../assets/youtube_player_video_icon.svg";
 import Search from "../assets/search_icon.svg";
 import Notification from "../assets/notification_icon.svg";
 import Create from "../assets/add-video.png";
-import Profile from "../assets/account.jpeg";
+import Profile from "../assets/lekan.jpg";
 import Voice from '../assets/2205213_mic_microphone_record_speak_icon.svg'
 import Device from '../assets/broadcast.png'
 
