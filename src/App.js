@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Categories from "./components/Categories";
 import Sidebar from "./components/Sidebar";
 import VideoCard from "./components/VideoCard";
+import Footer from "./components/Footer";
 import data from "./data";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Categories />
         <div className="video-container">{mappedVideo}</div>
       </div>
+      <Footer />
     </div>
   );
 }
